@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ian Nicolle 👋
 
-<!--
-**inic351/inic351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable, cloud-native applications with a focus on **DevOps** and **Clean Architecture**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python, C# (.NET 8), SQL
+- **Cloud:** AWS (Lambda, Beanstalk, S3, RDS, IAM)
+- **Infrastructure:** Terraform, GitHub Actions, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Portfolio Projects
+
+| Project | Core Tech | Description |
+| :--- | :--- | :--- |
+| **[CloudVault](https://github.com/inic351/cloud-vault)** | `C#` `Python` `Terraform` | A multi-language hybrid cloud storage solution using **Beanstalk** for the dashboard and **Lambda** for file processing. |
+
+---
+
+### 🏗️ Architectural Philosophy
+In my projects, I prioritize:
+* **Infrastructure as Code:** Everything is provisioned via Terraform—no manual AWS console clicks.
+* **Polyglot Programming:** Using the right tool for the job (e.g., Python for data, C# for performance).
+* **Automated CI/CD:** Every push runs unit tests and triggers a `terraform plan` to ensure infrastructure integrity.
+
+---
