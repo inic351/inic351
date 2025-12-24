@@ -20,7 +20,7 @@ I build scalable, cloud-native applications with a focus on **DevOps** and **Cle
 
 | Project | Core Tech | Description |
 | :--- | :--- | :--- |
-| **[CloudVault](https://github.com/inic351/cloud-vault)** | `C#` `Python` `Terraform` | A multi-language hybrid cloud storage solution using **Beanstalk** for the dashboard and **Lambda** for file processing. |
+| **[cloud-vault](https://github.com/inic351/cloud-vault)** | `C#` `Python` `Terraform` | A cloud-native secure storage solution utilizing a .NET MAUI desktop client, AWS Serverless (Lambda/S3), and Terraform to demonstrate the Valet Key and Event-Driven architecture patterns. |
 
 ---
 
