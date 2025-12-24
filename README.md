@@ -3,8 +3,8 @@
 I build scalable, cloud-native applications with a focus on **DevOps** and **Clean Architecture**.
 
 ### 🛠 Tech Stack
-- **Languages:** Python, C# (.NET 8), SQL
-- **Cloud:** AWS (Lambda, Beanstalk, S3, RDS, IAM)
+- **Languages:** Python, C# (.NET 8)
+- **Cloud:** AWS (Lambda, Beanstalk, S3 etc...)
 - **Infrastructure:** Terraform, GitHub Actions, Docker
 
 ---
